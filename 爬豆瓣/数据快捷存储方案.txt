@@ -1,0 +1,29 @@
+## TinyDB
+* 文档: https://tinydb.readthedocs.io/
+* GitHub: https://github.com/msiemens/tinydb
+* PyPI: https://pypi.org/project/tinydb/
+
+## TinyMongo
+* 文档: 见GitHub仓库README.md
+* GitHub: https://github.com/schapman1974/tinymongo
+* PyPI: https://pypi.org/project/tinymongo/
+
+## dataset
+* 文档: https://dataset.readthedocs.io/
+* GitHub: https://github.com/pudo/dataset
+* PyPI: https://pypi.org/project/dataset/
+
+## custom-redis
+* 文档: 见GitHub仓库README.md
+* GitHub: https://github.com/ShichaoMa/custom_redis
+* PyPI: https://pypi.org/project/custom-redis/
+
+## DiskCache
+* 文档: http://www.grantjenks.com/docs/diskcache/
+* GitHub: https://github.com/grantjenks/python-diskcache
+* PyPI: https://pypi.org/project/diskcache/
+
+## fakeredis
+* 文档: 见GitHub仓库README.md
+* GitHub: https://github.com/jamesls/fakeredis
+* PyPI: https://pypi.org/project/fakeredis/
